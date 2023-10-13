@@ -1,1 +1,2 @@
-# Tipe-Variabel-Operasi-Python
+# Belajar Python 
+oleh: Nalendra Dwimantara
