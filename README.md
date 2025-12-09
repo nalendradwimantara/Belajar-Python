@@ -9,4 +9,5 @@ yang berisi : if, for, while, dan NESTED LOOP <br>
 [3.Matriks](https://github.com/nalendradwimantara/Belajar-Python/blob/main/3.Matriks.ipynb) <br>
 yang merupakan lanjutan Materi NESTED LOOP <br>
 yang berisi : membuat matriks, penjumlahan, pemgurangan dan perkalian matriks <br>
-
+[4.Function](https://github.com/nalendradwimantara/Belajar-Python/blob/main/4.Function.ipynb) <br>
+yang berisi : cara membuat fungsi, fungsi berisi kondisi, dan fungsi berisi loop
